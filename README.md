@@ -1,6 +1,8 @@
 # Django
 
-Books : (i) YDKJS 
-        (ii) cb.lk/jsbook
+## Books 
+- YDKJS 
+- cb.lk/jsbook
         
-Links : https://developer.mozilla.org/en-US/docs/Web
+## Links 
+- https://developer.mozilla.org/en-US/docs/Web
