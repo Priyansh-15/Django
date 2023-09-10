@@ -6,3 +6,4 @@
         
 ## Links 
 - https://developer.mozilla.org/en-US/docs/Web
+- https://cb.lk/yt/jsbasics
